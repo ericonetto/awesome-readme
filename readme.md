@@ -1,10 +1,8 @@
-<img src="icon.png" align="right" />
-# Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-> A curated list of awesome README
-
-Elements in beautiful READMEs include, but not limited to: images, screenshots, GIFs, text formatting, etc.
-
-
+# Konkerlabs
+[Português](https://github.com/KonkerLabs/konker-sensors-app/LEIAME.md)      
+[English](https://github.com/KonkerLabs/konker-sensors-app/LEIAME.md) 
+## example-android-sensors 
+>Aplicativo android que coleta dados dos sensores do celular e publica na plataforma da Konker.
 ## Examples
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.
 - [petkaantonov/bluebird](https://github.com/petkaantonov/bluebird) - Build badges. Clear description of what the project does. TOC for easy navigation. Project logo. Extensive explanations and examples.
